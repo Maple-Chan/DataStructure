@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hqwu/dataStructure/src/AvlTree.cc
+AvlTree.h
+/home/hqwu/dataStructure/src/AvlTree.h
+algorithm
+-
+
+/home/hqwu/dataStructure/src/AvlTree.h
+stdio.h
+-
+
+/home/hqwu/dataStructure/src/SearchTree.cc
+SearchTree.h
+/home/hqwu/dataStructure/src/SearchTree.h
+stdlib.h
+-
+stdio.h
+-
+
+/home/hqwu/dataStructure/src/SearchTree.h
+stdio.h
+-
+

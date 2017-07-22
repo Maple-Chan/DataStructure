@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/AvlTree.h
+stdio.h
+-
+
+/home/hqwu/dataStructure/example/testAvlTree.cc
+AvlTree.h
+/home/hqwu/dataStructure/example/AvlTree.h
+

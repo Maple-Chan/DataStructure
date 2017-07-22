@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/SearchTree.h
+stdio.h
+-
+
+/home/hqwu/dataStructure/example/testSearchTree.cc
+SearchTree.h
+/home/hqwu/dataStructure/example/SearchTree.h
+stdio.h
+-
+

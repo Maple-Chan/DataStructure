@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testSearchTree.dir/testSearchTree.o  -o testSearchTree  -L/home/hqwu/dataStructure/build/lib -rdynamic ../lib/libtreeDataStructure.so -Wl,-rpath,/home/hqwu/dataStructure/build/lib 

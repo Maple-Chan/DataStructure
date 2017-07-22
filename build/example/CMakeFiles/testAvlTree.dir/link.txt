@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/testAvlTree.dir/testAvlTree.o  -o testAvlTree  -L/home/hqwu/dataStructure/build/lib -rdynamic ../lib/libtreeDataStructure.so -Wl,-rpath,/home/hqwu/dataStructure/build/lib 
