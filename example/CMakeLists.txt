@@ -6,3 +6,7 @@ TARGET_LINK_LIBRARIES(testSearchTree treeDataStructure)
 
 ADD_EXECUTABLE(testAvlTree testAvlTree.cc)
 TARGET_LINK_LIBRARIES(testAvlTree treeDataStructure)
+
+
+ADD_EXECUTABLE(testRBTree testRBTree.cc)
+TARGET_LINK_LIBRARIES(testRBTree treeDataStructure)
